@@ -28,7 +28,7 @@
 //Telegram: t.me/ahmmitech
 //GitHub: @salmanytofficial
 //WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//want more free bot scripts? subscribe to my youtube channel: change lifes
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
 //   * © 2024 XLICON-V3-MD.
