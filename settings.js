@@ -28,7 +28,7 @@
 //Telegram: t.me/ahmmitech
 //GitHub: @salmanytofficial
 //WhatsApp: +2349132332789
-//want more free bot scripts? subscribe to my youtube channel: change lifes
+//God saves
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
 //   * © 2024 XLICON-V3-MD.
@@ -50,11 +50,11 @@ global.location = process.env.GL_INFO || "In" //ur location
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'CYPHIR-V3-MD' //ur bot name
+global.botname = process.env.BOT_NAME || 'CYPHIR-V9-MD' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '2349132332789' //ur owner number
+global.ownernumber = process.env.SUDO || '+2349132332789' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Favour Eze' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'FadeGreen' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://x.com/fade_green1?s=09"
 //________________________________________________________________________________________________________
@@ -70,11 +70,11 @@ global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
 //________________________________________________________________________________________________________
 global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "2349132332789@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "+2349132332789@s.whatsapp.net"
 //________________________________________________________________________________________________________
-global.xprefix = process.env.PREFIX || '.'
+global.xprefix = process.env.PREFIX || '/'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["2349132332789"] // Premium User
+global.premium = process.env.GL_VIP || ["+2349132332789"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
